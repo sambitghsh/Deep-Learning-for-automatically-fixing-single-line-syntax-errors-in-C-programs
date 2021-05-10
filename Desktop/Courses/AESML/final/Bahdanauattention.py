@@ -11,7 +11,7 @@ import re
 from nltk.translate.bleu_score import SmoothingFunction
 from nltk.translate.bleu_score import sentence_bleu
 
-#Creating the badhanau attention, highly inspired from the tensorflow tutorial
+#Creating the badhanau attention, highly inspired from the tensorflow official tutorial
 class BahdanauAttention(tf.keras.layers.Layer):
 
     def __init__(self, units):
