@@ -1,6 +1,8 @@
 *In this Programming Assignment I have attempted the LINE TO LINE FIXING MODEL*. 
 
-*To do this assignment, I have referred to many online tutorial for tensorflow and deep learning. Becasue of this there can be some resembles between my code and the official documents of tensorflow. Although I am atatching all the links which i used for this assignment. But I tried my utmost to understand what is deep learning and how it works by using this materials.*
+*Here, to achieve the target, I tried three possible models. The first one is one hot encoder which is given in the assignment. In this case, the bleu score is almost 70, but to predict the valid.csv it was taking almost 20 minutes. That's why I changed the one-hot representation and use an index array. In this case, the bleu score decreases drastically to 29 and the time taken is almost the same as the first one. To make it more efficient and fast I tried another way using GRU with attention. Using this I got a bleu score of almost 65(refer to GRU_W_ATTN.ipynb). But the main advantage is it is taking approx 4-6 minute, which is almost 4 times faster than the previous two. *
+
+*To do this assignment, I have referred to many online tutorials for TensorFlow and deep learning. Because of this, there can be some resembles between my code and the official documents of TensorFlow. Although I am attaching all the links which i used for this assignment. But I tried my utmost to understand what is deep learning and how it works by using this material.*
 
 
 1.https://www.youtube.com/watch?v=bBBYPuVUnug&ab_channel=ConfEngine <br />
