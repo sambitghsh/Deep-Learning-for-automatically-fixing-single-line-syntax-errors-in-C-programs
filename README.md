@@ -4,12 +4,13 @@
 
 
 1.https://www.youtube.com/watch?v=bBBYPuVUnug&ab_channel=ConfEngine <br />
-2.https://www.youtube.com/watch?v=f-JCCOHwx1c&t=713s&ab_channel=KrishNaik
-3.https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
-4.https://www.tensorflow.org/api_docs
-5.https://www.tensorflow.org/tutorials/text/nmt_with_attention
-6.https://towardsdatascience.com/implementing-neural-machine-translation-with-attention-using-tensorflow-fc9c6f26155f
-7.https://www.tensorflow.org/api_docs/python/tf/train/Checkpoint?version=nightly
-8.http://cs229.stanford.edu/syllabus.html
-9.https://www.youtube.com/watch?v=SysgYptB198&t=493s&ab_channel=DeepLearningAI
-10.https://medium.com/@dev.elect.iitd/neural-machine-translation-using-word-level-seq2seq-model-47538cba8cd7
+2.https://www.youtube.com/watch?v=f-JCCOHwx1c&t=713s&ab_channel=KrishNaik <br />
+3.https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z <br />
+4.https://www.tensorflow.org/api_docs <br />
+5.https://www.tensorflow.org/tutorials/text/nmt_with_attention <br />
+6.https://towardsdatascience.com/implementing-neural-machine-translation-with-attention-using-tensorflow-fc9c6f26155f <br />
+7.https://www.tensorflow.org/api_docs/python/tf/train/Checkpoint?version=nightly <br />
+8.http://cs229.stanford.edu/syllabus.html <br />
+9.https://www.youtube.com/watch?v=SysgYptB198&t=493s&ab_channel=DeepLearningAI <br />
+10.https://medium.com/@dev.elect.iitd/neural-machine-translation-using-word-level-seq2seq-model-47538cba8cd7 <br />
+
