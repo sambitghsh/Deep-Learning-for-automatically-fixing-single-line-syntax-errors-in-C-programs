@@ -3,7 +3,7 @@
 *To do this assigment, I have referred to many online tutorial for tensorflow and deep learning. Becasue of this there can be some resembles between my code and the official documents of tensorflow. Although I am atatching all the links which i used for this assignment. But I tried my utmost to understand what is deep learning and how it works by using this materials.*
 
 
-1.https://www.youtube.com/watch?v=bBBYPuVUnug&ab_channel=ConfEngine \n
+1.https://www.youtube.com/watch?v=bBBYPuVUnug&ab_channel=ConfEngine <br />
 2.https://www.youtube.com/watch?v=f-JCCOHwx1c&t=713s&ab_channel=KrishNaik
 3.https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z
 4.https://www.tensorflow.org/api_docs
